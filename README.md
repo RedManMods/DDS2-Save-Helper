@@ -19,7 +19,7 @@ A simple, easy-to-use tool designed to help you manage and share your save files
 - **Run**: Launch the program. The GUI will prompt you to retreive your save files, and you’ll be able to drag and drop the zip file to overwrite.
 
 ## 📢 Changelog
-- **v1.0.0** - Initial release
+- **v1.0.0.0** - Initial release
 
 ## 🧑‍💻 Contact & Contributing
 If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub Issues](https://github.com/RedManMods/DDS2-Save-Helper/issues) page.
